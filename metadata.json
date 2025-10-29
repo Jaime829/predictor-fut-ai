@@ -1,0 +1,5 @@
+{
+  "name": "Predictor Futbolero AI",
+  "description": "An AI-powered web application that uses Gemini to analyze and predict football match outcomes based on the latest web data. It provides probabilities and reasoned explanations in a clean, minimalist interface.",
+  "requestFramePermissions": []
+}
